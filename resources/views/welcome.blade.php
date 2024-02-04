@@ -1,1 +1,1 @@
-<h1>Hellow Learner</h1>
+<a href="{{route('category.list')}}">Category</a>
